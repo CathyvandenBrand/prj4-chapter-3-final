@@ -1,0 +1,30 @@
+*
+{
+    margin:0;
+    padding: 0;
+    border: 0;
+    font-size: 100%; 
+    font-family: 'Montserrat', sans-serif;
+}
+body
+{
+    background-color:rgb(218, 214, 214);
+}
+.header
+{
+    background-image: url(../images/bamboo.jpg);
+}
+h1.first
+{
+    color: rgb(228, 223, 236);
+}
+.panda
+{
+    border: 3px dashed blueviolet;
+    margin: 0px 6%;
+}
+#foottext
+{
+   font-style: italic;
+   font-family: monospace   ;
+}
