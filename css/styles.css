@@ -13,11 +13,19 @@ body
 
 .background
 {
-    background-image: url(../images/backgroundpage.jpg);
+    background-image: url(../images/purplebackground.jpg);
 }
 .mushroomLogo
 {
     height: 100px;
+}
+.indeximage
+{
+    height: 400px;
+    display: block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1.first
